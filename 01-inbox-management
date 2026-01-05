@@ -1,0 +1,83 @@
+# 📧 Inbox Management & Weekly Planning
+
+## 🎯 Purpose
+Start your week with clarity by having Microsoft Copilot analyze your backlog and create an action plan.
+
+## 📊 Effectiveness Rating
+**8/10** - Takes a few minutes to process across M365 tools, but delivers thorough, actionable results.
+
+## 🔧 The Prompt Starts Here
+
+Review all my emails and Teams messages from [previous month/period] and provide:
+
+1. Quick Wins - Tasks I can complete this week to clear my backlog
+2. Strategic Priorities - Important items requiring deep work or decisions
+3. Waiting On Others - Items I've delegated or need follow-up from colleagues
+4. Archive/Close - Conversations that are complete and can be closed
+
+Then create a focused action plan for my first week back, highlighting the top 3 priorities that will have the biggest impact on my [current month] goals.
+
+## 🔧 The Prompt Ends Here
+
+## 🎓 4D Framework Application
+
+- **Delegation**: Let AI sort and categorize your communications
+- **Description**: Specific structure (Quick Wins, Priorities, etc.) ensures actionable output
+- **Discernment**: Review AI suggestions before acting - you validate the categorization
+- **Diligence**: Use weekly to build a sustainable productivity system
+
+## ⚡ Expected Results
+
+✅ Clear action plan for the week  
+✅ Quick wins identified (typically 10-15 items)  
+✅ Strategic priorities surfaced  
+✅ Completed conversations archived with confidence  
+✅ Time saved: 2-3 hours vs manual sorting
+
+## 💡 Customization Tips
+
+- **Adjust timeframe**: "from last week" / "from December 2025" / "from the past 30 days"
+- **Focus areas**: Add "related to [project name]" to filter by topic
+- **Urgency**: Add "prioritize by deadline" for time-sensitive work
+- **Delegation**: Add "identify items to delegate to team" for managers
+
+## 🔄 Recommended Frequency
+
+- **Weekly**: Start of each week (Monday morning)
+- **Post-vacation**: After any extended absence
+- **Monthly**: First working day of each month
+
+## 🛠️ Requirements
+
+- Microsoft 365 subscription
+- Microsoft Copilot license
+- Access to Outlook and Teams
+
+## 📈 Success Metrics
+
+Track your results:
+- Time saved per week
+- Quick wins completed
+- Strategic priorities advanced
+- Inbox zero achievement rate
+
+## 🌟 Community Feedback
+
+Rate this prompt and share your experience:
+- ⭐⭐⭐⭐⭐ 5/5 - Perfect, no changes needed
+- ⭐⭐⭐⭐ 4/5 - Very helpful with minor tweaks
+- ⭐⭐⭐ 3/5 - Good starting point, needs customization
+
+## 📝 Version History
+
+- **v1.0** (Jan 2026) - Initial release
+
+## 🤝 Contributions
+
+Found a way to improve this prompt? Submit a pull request or open an issue!
+
+---
+
+**Created by:** [Athar Sheikh]
+**Part of:** [Copilot Productivity Prompts Library] https://github.com/athar-swiss/copilot-productivity-prompts
+**License:** MIT
